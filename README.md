@@ -20,6 +20,8 @@ When choosing a tool, consider these essential features:
 3.  **Authenticity Score:** A clear percentage or confidence level.
 4.  **Compatibility:** Smooth performance on mobile devices (iOS/Android) and various video formats.
 
+5.  [Best AI Video Detector for Social Media Videos]([https://jibannagar.com/best-ai-video-detector-for-social-media-videos/](https://apps.apple.com/us/app/detect-ai-ai-content-detector/id6743627428))
+
 ## How AI Video Detectors Work
 
 Detectors analyze specific visual and technical elements, including:
